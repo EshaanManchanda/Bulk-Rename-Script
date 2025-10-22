@@ -1,0 +1,5 @@
+transformers
+Pillow
+torch
+opencv-python
+pillow-heif
